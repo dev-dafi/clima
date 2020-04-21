@@ -1,5 +1,6 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Clima Mockup](Documentation/clima-mockup.jpg)
 
 #  Clima
 This is the finished project, from the Udemy course Complete iOS App Development Bootcamp.
