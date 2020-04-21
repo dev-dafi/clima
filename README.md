@@ -5,7 +5,7 @@
 This is the finished project, from the Udemy course Complete iOS App Development Bootcamp.
 
 ## Important
-In order for your code to work, you have to create a Constant.swift file, where you have to place your apiKey. Example:
+In order for your code to work, you have to create a Constant.swift file (Clima folder), where you have to place your apiKey. Example:
 
 ``` let apiKey = "INSERT YOUR API KEY HERE" ```
 
